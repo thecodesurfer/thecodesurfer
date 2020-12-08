@@ -1,4 +1,4 @@
-![]("https://github.com/rubenfalkenburg/rubenfalkenburg/blob/main/img/TheCodeSurfer-Header.png?raw=true")
+![](https://raw.githubusercontent.com/rubenfalkenburg/rubenfalkenburg/main/img/TheCodeSurfer-Header.png)
 
 # Ruben Falkenburg - @thecodesurfer
 
