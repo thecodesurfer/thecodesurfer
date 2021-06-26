@@ -2,7 +2,7 @@
 
 # Ruben Falkenburg - @thecodesurfer
 
-Hi, I'm Ruben - an software engineering student at Fontys University Of Applied Sciences and junior software developer.
+Hi, I'm Ruben - an software engineering student at Fontys University Of Applied Sciences and junior software developer at Van Hulten Software BV.
 
 **Find me elsewhere :earth_africa:**
 - Twitter: [@thecodesurfer](https://twitter.com/thecodesurfer)
